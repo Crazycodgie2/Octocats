@@ -1,5 +1,5 @@
 .octodex {
-  margin: 10px;
+  margin: auto;
   display: flex;
   flex-direction: row;
   width: 1000px;
@@ -29,6 +29,10 @@ ul {
 
 a {
   color: black;
+}
+
+.authors :nth-child(2) {
+  visibility: hidden;
 }
 /*.octodex {
   display: flex;
