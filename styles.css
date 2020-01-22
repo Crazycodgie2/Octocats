@@ -15,7 +15,8 @@
 }
 .image-caption {
   float: right;
-  word-wrap: 10px;
+  display: flex;
+  flex-direction: row;
 }
 .authors img {
   width: 50px;
