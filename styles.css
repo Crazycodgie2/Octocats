@@ -8,9 +8,10 @@
   visibility: hidden;
 }
 .octocat a img {
-  border: 2x solid #d7d7d7;
+  border: 2px #d7d7d7;
+  border-style: solid;
+  border-radius: 10px;
   margin-right: 100px;
-  border-radius: 20px;
 }
 .image-caption {
   text-align: right;
