@@ -24,6 +24,10 @@ ul {
   display: flex;
   flex-direction: row;
 }
+
+a {
+  color: black;
+}
 /*.octodex {
   display: flex;
   flex-direction: row;
