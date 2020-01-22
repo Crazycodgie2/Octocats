@@ -10,7 +10,7 @@
 }
 .octocat > a > img {
   width: 300px;
-  border: 2px;
+  border: 2px grey;
   border-style: solid;
   border-radius: 20px;
 }
