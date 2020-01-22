@@ -13,6 +13,7 @@
 }
 .image-caption {
   text-align: right;
+  text-decoration-color: grey;
 }
 .authors img {
   width: 50px;
