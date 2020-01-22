@@ -14,7 +14,7 @@
   margin-right: 100px;
 }
 .image-caption {
-  text-align: right 200px;
+  float: right;
 }
 .authors img {
   width: 50px;
