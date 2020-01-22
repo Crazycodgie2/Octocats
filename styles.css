@@ -12,7 +12,7 @@
   width: 300px;
   border: 2px grey;
   border-style: solid;
-  border-radius: 3px;
+  border-radius: 10px;
 }
 .authors > li > a > img {
   width: 20px;
