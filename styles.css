@@ -1,4 +1,25 @@
 .octodex {
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  width: 1000px;
+}
+.authors {
+  display: flex;
+  flex-direction: row;
+}
+.octocat > a > img {
+  width: 300px;
+  border: 1px solid #e1e4e8;
+}
+.authors > li > a > img {
+  width: 20px;
+}
+ul {
+  list-style: none;
+}
+
+/*.octodex {
   display: flex;
   flex-direction: row;
   width: 100px;
@@ -17,7 +38,6 @@
   float: right;
   display: flex;
   flex-direction: row;
-  font-size: 14px;
 }
 .authors img {
   width: 50px;
@@ -28,3 +48,4 @@
 ul {
   list-style: none;
 }
+*/
