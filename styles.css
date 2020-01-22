@@ -1,7 +1,9 @@
 .octodex {
   display: flex;
-  flex-wrap: wrap;
   flex-direction: row;
+}
+
+.octodex img {
   height: 100px;
   width: 100px;
 }
