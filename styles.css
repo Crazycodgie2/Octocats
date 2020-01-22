@@ -1,5 +1,5 @@
-img {
-  display: block;
+octodex {
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 40%;
