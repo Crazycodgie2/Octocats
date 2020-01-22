@@ -1,5 +1,6 @@
 img {
-  display: row;
+  display: flex;
+  flex-wrap: flex;
   height: 100px;
   width: 100px;
 }
