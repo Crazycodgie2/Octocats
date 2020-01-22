@@ -8,12 +8,12 @@
   visibility: hidden;
 }
 .octocat a img {
-  border: 2px solid grey;
+  border: 2x solid #d7d7d7;
   margin-right: 100px;
+  border-radius: 10px;
 }
 .image-caption {
   text-align: right;
-  text-decoration-color: grey;
 }
 .authors img {
   width: 50px;
