@@ -1,6 +1,8 @@
 .octodex {
   display: flex;
   flex-direction: row;
+  width: 100px;
+  height: 100px;
 }
 
 .octodex img {
