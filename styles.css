@@ -1,26 +1,16 @@
-.octocat {
+.octodex {
   display: flex;
   flex-direction: row;
 }
 
-.octocat img {
+.octodex img {
   height: 300px;
   width: 300px;
 }
 
-.octocat img {
-  border: 1.5px;
+.octodex img {
+  border: 1px;
   border-radius: 10px;
   border-style: solid;
   border-color: gray;
-}
-
-.authors {
-  display: flex;
-  flex-direction: row;
-}
-
-.authors {
-  height: 100px;
-  width: 100px;
 }
