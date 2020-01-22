@@ -1,6 +1,5 @@
 img {
   display: flex;
-  flex-wrap: flex;
-  height: 100px;
-  width: 100px;
+  flex-direction: row;
+  justify-content: space-between;
 }
