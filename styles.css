@@ -4,11 +4,12 @@
 }
 
 .octodex img {
-  height: 100px;
-  width: 100px;
+  height: 500px;
+  width: 500px;
 }
 
 .octodex img {
-  border: 10px;
+  border: 20px;
+  border-style: solid;
   border-color: black;
 }
