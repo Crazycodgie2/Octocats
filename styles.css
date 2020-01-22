@@ -14,3 +14,8 @@
   border-style: solid;
   border-color: gray;
 }
+
+.octodex a:last-child {
+  height: 10px;
+  width: 10px;
+}
