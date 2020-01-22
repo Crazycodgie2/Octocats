@@ -17,6 +17,7 @@
   float: right;
   display: flex;
   flex-direction: row;
+  font-size: 14px;
 }
 .authors img {
   width: 50px;
