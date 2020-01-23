@@ -43,6 +43,11 @@ a {
   display: inline-block;
   color: rgb(205, 205, 205);
 }
+
+.img-footer {
+  border-bottom-style: solid;
+  color: rgb(205, 205, 205);
+}
 /*.octodex {
   margin: auto;
   display: flex;
