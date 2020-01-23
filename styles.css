@@ -27,7 +27,7 @@ ul {
   display: flex;
   flex-direction: row;
   color: rgb(205, 205, 205);
-  word-spacing: -5px;
+  word-spacing: -15px;
 }
 
 a {
