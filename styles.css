@@ -28,6 +28,11 @@ ul {
   flex-direction: row;
   color: rgb(205, 205, 205);
   word-spacing: -10px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 10px 5px 0 5px;
+  border-color: #cacaca transparent transparent transparent;
 }
 
 a {
@@ -38,8 +43,6 @@ a {
 
 .authors :nth-child(2) {
   visibility: hidden;
-  height: -10px;
-  width: -10px;
 }
 
 .image-number {
