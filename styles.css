@@ -45,9 +45,9 @@ a {
 }
 
 .img-footer {
-  border: 2px;
   border-bottom-style: solid;
   color: rgb(205, 205, 205);
+  padding: 10px;
 }
 /*.octodex {
   margin: auto;
