@@ -28,6 +28,7 @@ ul {
   flex-direction: row;
   color: rgb(205, 205, 205);
   word-spacing: -10px;
+  font-family: sans-serif;
 }
 
 a {
