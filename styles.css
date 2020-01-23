@@ -28,7 +28,7 @@ ul {
   flex-direction: row;
   color: rgb(205, 205, 205);
   word-spacing: -10px;
-  text-indent: -5px;
+  text-indent: 10;
 }
 
 a {
