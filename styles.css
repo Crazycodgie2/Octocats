@@ -54,11 +54,6 @@ a {
 .image-number:before {
   content: "#";
 }
-
-.a :first-child {
-  margin-right: 10px;
-}
-
 /*.octodex {
   margin: auto;
   display: flex;
