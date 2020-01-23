@@ -32,6 +32,8 @@ ul {
   height: 0;
   border-style: solid;
   border-width: 10px 5px 0 5px;
+  border-bottom-left-radius: -5px;
+  border-bottom-right-radius: -5px;
   border-color: #cacaca transparent transparent transparent;
 }
 
