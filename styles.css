@@ -28,12 +28,17 @@ ul {
   flex-direction: row;
   color: rgb(205, 205, 205);
   word-spacing: -10px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 10px 5px 0 5px;
+  border-color: #cacaca transparent transparent transparent;
 }
 
 a {
   color: black;
-  margin-right: 10px;
-  margin-left: 10px;
+  margin-right: 2px;
+  margin-left: 2px;
 }
 
 .authors :nth-child(2) {
