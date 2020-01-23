@@ -53,6 +53,13 @@ a {
 .image-number:before {
   content: "#";
 }
+.triangle {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 10px 5px 0 5px;
+  border-color: #cacaca transparent transparent transparent;
+}
 /*.octodex {
   margin: auto;
   display: flex;
