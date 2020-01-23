@@ -32,8 +32,8 @@ ul {
 
 a {
   color: black;
-  margin-right: 2px;
-  margin-left: 2px;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 
 .authors :nth-child(2) {
