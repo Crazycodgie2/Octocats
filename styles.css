@@ -32,7 +32,8 @@ ul {
 
 a {
   color: black;
-  margin: 0.1px 3px;
+  margin-right: 2px;
+  margin-left: 2px;
 }
 
 .authors :nth-child(2) {
@@ -52,13 +53,6 @@ a {
 
 .image-number:before {
   content: "#";
-}
-.triangle {
-  width: 0;
-  height: 0;
-  border-style: solid;
-  border-width: 10px 5px 0 5px;
-  border-color: #cacaca transparent transparent transparent;
 }
 /*.octodex {
   margin: auto;
