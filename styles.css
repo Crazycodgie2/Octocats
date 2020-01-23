@@ -28,11 +28,11 @@ ul {
   flex-direction: row;
   color: rgb(205, 205, 205);
   word-spacing: -10px;
-  white-space: normal;
 }
 
 a {
   color: black;
+  margin: 5px;
 }
 
 .authors :nth-child(2) {
